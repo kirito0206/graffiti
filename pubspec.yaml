@@ -1,7 +1,7 @@
 name: graffiti
 description: Provides a graffiti tool view.
 version: 0.0.1
-homepage:
+homepage: https://github.com/kirito0206/graffiti
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
